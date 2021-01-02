@@ -79,7 +79,7 @@ function App() {
   const NotFound = () => {
     return (
       <div>
-        <h4>Oops! Page not found.</h4>
+        <h2>Oops! The Page Does not exist.</h2>
       </div>
     );
   };
