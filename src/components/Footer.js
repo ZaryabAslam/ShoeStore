@@ -32,7 +32,7 @@ const Footer = () => {
           target="_blank"
           className={classes.name}
         >
-          Zaryab Aslam Jatt
+          Zaryab Aslam
         </a>{" "}
         {<GitHubIcon />}
       </footer>
